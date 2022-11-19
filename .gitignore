@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Template folder
+templates/
+
+#Git token file
+*.txt
+
 # C extensions
 *.so
 
